@@ -1,1 +1,2 @@
 # shapes
+This Python program, shapes5.py is just a little warm up for me to get used to working with objects and methods in Python. An object in Python is the instance of a class while a method in Python is a function that an OBJ can perform on itself. 
