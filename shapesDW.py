@@ -23,3 +23,11 @@ dia.draw(window)
 # draws the diamond
 dia.setFill(color_rgb(0,170,0))
 # color
+
+# Circle 
+Circle = Circle(Point(120,495), 70)
+# circle center point and radius.
+Circle.draw(window)
+# Draws the circle
+Circle.setFill(color_rgb(0,0,0))
+# color
