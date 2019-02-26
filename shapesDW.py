@@ -39,3 +39,12 @@ Tri.draw(window)
 # Draws the Triangle
 Tri.setFill(color_rgb(170,0,0))
 # color
+
+# Rectangle
+Rectangle = Rectangle(Point(400,455), Point(550,560))
+# X, Y points of this object
+Rectangle.draw(window)
+# Draws the Rectangle
+Rectangle.setFill(color_rgb(0,0,170))
+# color
+
