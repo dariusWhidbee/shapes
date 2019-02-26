@@ -48,3 +48,16 @@ Rectangle.draw(window)
 Rectangle.setFill(color_rgb(0,0,170))
 # color
 
+# Oval
+Oval = Oval(Point(410,50), Point(540,140))
+# X, Y points of this object
+Oval.draw(window)
+# Draws the Oval
+Oval.setFill(color_rgb(160,20,190))
+# color
+
+window.getMouse()
+window.close()
+
+
+
