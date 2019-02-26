@@ -31,3 +31,11 @@ Circle.draw(window)
 # Draws the circle
 Circle.setFill(color_rgb(0,0,0))
 # color
+
+# Triangle
+Tri = Polygon(Point(70, 50), Point(120, 160), Point(170, 50))
+# X, Y points of this object
+Tri.draw(window)
+# Draws the Triangle
+Tri.setFill(color_rgb(170,0,0))
+# color
